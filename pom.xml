@@ -85,6 +85,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<executable>true</executable>
+					<finalName>databaseservice</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
