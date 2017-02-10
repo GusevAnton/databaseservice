@@ -84,6 +84,7 @@
 				<configuration>
 					<finalName>databseservice</finalName>
 					<executable>true</executable>
+					<finalName>databaseservice</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
