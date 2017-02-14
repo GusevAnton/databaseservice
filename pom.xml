@@ -7,8 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>DataBaseService</name>
-	<description>Database</description>
+	<name>databaseservice</name>
+	<description>databaseservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
