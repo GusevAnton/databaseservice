@@ -91,7 +91,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>databseservice</finalName>
+					<finalName>databaseservice</finalName>
 					<executable>true</executable>
 				</configuration>
 			</plugin>
