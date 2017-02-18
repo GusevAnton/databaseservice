@@ -45,8 +45,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>kanban</groupId>
-			<artifactId>kanban_common</artifactId>
+			<groupId>com.canaban.com</groupId>
+			<artifactId>common</artifactId>
 			<version>1.0</version>
 		</dependency>
 		<dependency>
@@ -94,19 +94,6 @@
 					<finalName>databaseservice</finalName>
 					<executable>true</executable>
 				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-shade-plugin</artifactId>
-				<version>2.1</version>
-				<executions>
-					<execution>
-						<phase>package</phase>
-						<goals>
-							<goal>shade</goal>
-						</goals>
-					</execution>
-				</executions>
 			</plugin>
 		</plugins>
 	</build>
