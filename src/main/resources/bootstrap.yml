@@ -8,7 +8,7 @@ spring:
                   serviceId: configservice
     boot:
         admin:
-            url: http://localhost:8010
+            url: http://canaban.ddns.net:8010
 eureka:
   client:
     service-url:
