@@ -6,7 +6,7 @@
 	<artifactId>databaseservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<groupId>com.canaban</groupId>
+	<groupId>com.canaban.databaseservice</groupId>
 
 	<name>databaseservice</name>
 	<description>databaseservice</description>
